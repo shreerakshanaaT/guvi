@@ -2,7 +2,6 @@
 int r,n,rem;
 int main()
 {
-	// your code goes here
 	scanf("%d",&n);
 	while(n!= 0)
 	{
